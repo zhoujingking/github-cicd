@@ -1,1 +1,1 @@
-![CI] (https://github.com/zhoujingking/github-cicd/actions/workflows/node.js/badge.svg)
+![CI] (https://github.com/zhoujingking/github-cicd/actions/workflows/node.js.yml/badge.svg)
