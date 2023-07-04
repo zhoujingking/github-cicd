@@ -15,6 +15,8 @@ jobs:
       - name: Echo version
         env: 
           VERSION: ${{github.event.inputs.version}}
-        run: echo "version: $VERSION"
+        run: |
+          echo "version: $VERSION"
       - name: End
-        run: echo "Do your rollback actions"
+        run: |
+          echo "Do your rollback actions"
